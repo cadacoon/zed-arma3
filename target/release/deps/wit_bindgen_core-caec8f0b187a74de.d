@@ -1,0 +1,10 @@
+/home/valaphee/.local/share/zed/extensions/installed/arma3/target/release/deps/libwit_bindgen_core-caec8f0b187a74de.rmeta: /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/home/valaphee/.local/share/zed/extensions/installed/arma3/target/release/deps/libwit_bindgen_core-caec8f0b187a74de.rlib: /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/home/valaphee/.local/share/zed/extensions/installed/arma3/target/release/deps/wit_bindgen_core-caec8f0b187a74de.d: /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs:
+/home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs:
+/home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs:
+/home/valaphee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs:

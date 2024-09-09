@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=/home/valaphee/.local/share/zed/extensions/installed/arma3/target/release/build/wit-bindgen-rust-macro-c0747f96ca1f858a/out

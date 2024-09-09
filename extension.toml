@@ -1,0 +1,11 @@
+id = "arma3"
+name = "Arma3"
+version = "0.1.0"
+authors = ["Valaphee"]
+description = "Arma3 SQF language support for Zed."
+repository = "https://github.com/cadacoon/zed-arma3"
+schema_version = 1
+
+[grammars.sqf]
+repository = "https://github.com/cadacoon/tree-sitter-sqf"
+commit = "2d68109ff49b31398ac0459d8b18e69eb40e1503"
